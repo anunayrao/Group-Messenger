@@ -1,0 +1,4 @@
+#Sun Mar 24 07:12:52 EDT 2019
+base.0=/Users/anunay/Desktop/GroupMessenger2/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
